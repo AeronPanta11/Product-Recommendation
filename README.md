@@ -50,9 +50,6 @@
   <h2 id="conclusion">Conclusion</h2>
   <p>The Amazon Product Reviews Recommendation System demonstrates the effectiveness of collaborative filtering techniques in generating personalized product recommendations. Future work may include incorporating additional features such as product metadata and user demographics to improve recommendations.</p>
 
-  <h2 id="installation">Installation</h2>
-  <p>To run this project, ensure you have the following installed:</p>
-  <pre><code>pip install tensorflow datasets pandas scikit-learn scipy</code></pre>
 
   <h2 id="usage">Usage</h2>
   <p>To use the recommendation system, you can call the <code>get_recommendations</code> function with a user ID to retrieve recommended products.</p>
